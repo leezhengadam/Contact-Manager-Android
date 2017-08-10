@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d823b9b6c3216514ad6aadb92c1eb4328a566196">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4c848f1819db89f635a8e584a8d7a6880d67e11f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\4be30c1a545d296256affdb214864c039949cce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_f217bf041c6187fbafcd2780acc0a9530fecc6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\b06359d485db0d43b8f767bbfb563a465de34ba8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_911fc8ff2f9cfac82cd7f1a3304e7971887720e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\625dbc84f73a6fab8a4aa216e4ff0885e4aecf6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_e8a414847cd8f94e8ace05b633a15d8274094075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\5588d094ddd80d6595997df37439bb0c656d0400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_4daf516d41bf97fe5827188b45136316a013a7ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\f706ebf1c039ed09ae17259bf0830c4a67b440d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_b691627f9f05ca978cc728206265d57c2f62b902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\ffe04cdbb2499be53ce57a0f3d63272114cd233c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_0347c55ab5bc1ffdbaedd735f9ddfb94bcef79d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_193bee0b0fba844187586640ccd0fe6588211cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\91ab04f6cdb121edd200638c566ec3c6a90137a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_5e81db164af5aec8266c44287b144667d376b4ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8163f00693b727596bd00248190dab55b10e22ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_5a6b5e06fb90b05a0b4dd0560a0326c20ff0f1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\bba54e653399bb6ec32dc4b0344ec2274316a943\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_c593e1b1217a53336fd7e190a9bf8658eb6a11de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\b1fdc7999190458a42d37fb3517bda9c6e71b45a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_fe686f609225ed9da28fc1627a3842624e4c939d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huqiy\.android\build-cache\ddc5f49a2c838020af144c276057d58c7fa87262\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Study\UTDHomeWork\HCI\HW5\Contacter\app\build\intermediates\pre-dexed\debug\classes_91bbea210e2eca21e2b2b3f3f14736bd62281780.jar" />
+    </item>
+
+</items>
