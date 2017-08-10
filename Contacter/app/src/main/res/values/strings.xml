@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">NEW</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="date">Date Save</string>
+
+</resources>
